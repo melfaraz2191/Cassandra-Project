@@ -7,22 +7,22 @@ The primary aim is to enable efficient querying of song play data. The database 
 ### 1. Artist, Song Title, and Length for Specific Session and Item
 For sessionId=338 and itemInSession=4:
 
-Artist: Faithless
-Song: Music Matters (Mark Knight Dub)
-Length: 495.31 seconds
+- Artist: Faithless <br>
+- Song: Music Matters (Mark Knight Dub)  <br>
+- Length: 495.31 seconds  <br>
 ### 2. Artist, Song, and User Details Sorted by Session and Item
 For userId=10 and sessionId=182, Sylvie Cruz listened to:
 
-Keep on Keepin On by Down To The Bone
-Greece 2000 by Three Drives
-Kilometer by Sebastien Tellier
-Catch You Baby by Lonnie Gordon
+- Keep on Keepin On by Down To The Bone <br>
+- Greece 2000 by Three Drives  <br>
+- Kilometer by Sebastien Tellier  <br>
+- Catch You Baby by Lonnie Gordon  <br>
 ### 3. User Names for a Specific Song
 Users who listened to All Hands Against His Own:
 
-Jacqueline Lynch
-Tegan Levine
-Sara Johnson
-Steps
-Model the NoSQL database using Apache Cassandra.
-Build an ETL pipeline to extract, transform, and load data.
+- Jacqueline Lynch  <br>
+- Tegan Levine  <br>
+- Sara Johnson  <br>
+### Steps
+- Model the NoSQL database using Apache Cassandra.  <br>
+- Build an ETL pipeline to extract, transform, and load data.  <br>
